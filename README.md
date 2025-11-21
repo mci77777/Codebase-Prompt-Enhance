@@ -174,13 +174,13 @@ All modules share a unified configuration file:
 **Example**:
 ```toml
 # Codebase Retrieval API
-BASE_URL = "https://d6.api.augmentcode.com/"
+BASE_URL = "https://d*.api.augmentcode.com/"
 TOKEN = "your-token-here"
 
 # Prompt Enhance API
-ENHANCE_BASE_URL = "https://api.x.ai"
+ENHANCE_BASE_URL = "https://api.openai.com"
 ENHANCE_TOKEN = "your-xai-token-here"
-MODEL = "grok-2-1212"
+MODEL = "gpt-5"
 
 # Web Server
 WEB_PORT = 8090
