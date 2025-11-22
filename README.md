@@ -1,5 +1,5 @@
 # Codebase MCP Monorepo
-[img]https://img777.gymbro.cloud/file/1763782387148_image.png[img]
+
 A modular MCP (Model Context Protocol) server ecosystem for codebase retrieval and prompt enhancement, built as a monorepo with three independent packages.
 
 ## 📦 Architecture
